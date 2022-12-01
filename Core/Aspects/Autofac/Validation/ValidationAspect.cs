@@ -24,7 +24,9 @@ namespace Core.Aspects.Autofac.Validation
         }
         protected override void OnBefore(IInvocation invocation)
         {
+            // calisma anda yeni instance(productvalidator) yaradir-reflection kod
             var validator = (IValidator)Activator.CreateInstance(_validatorType);
+            // enetitynin typeni mueyyen etmek ucun Productvalidatorun basinin generic argumentini tapir.
             var entityType = _validatorType.BaseType.GetGenericArguments()[0];
             var entities = invocation.Arguments.Where(t => t.GetType() == entityType);
             foreach (var entity in entities)

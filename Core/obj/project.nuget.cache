@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQpLbR+K11Yo9vRXgI/jjCuTMhugRRipzoneNe9+5BokqCEZOnOc3/XpYwCNn2m3o8Tql4xUeI8F1gNAuma2FA==",
+  "dgSpecHash": "Yirni0k+mT89gAqQeXXomzxhpU7Iy8amHju0isj+OYB3WUM4BMfagfKuUJhrpXmlCuuygzlO/1nekGSfTsVp6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FinalProject\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FinalProject-Engin-\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",
@@ -134,7 +134,10 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
