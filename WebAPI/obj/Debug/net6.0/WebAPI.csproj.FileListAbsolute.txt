@@ -23,7 +23,6 @@ C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsof
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -79,3 +78,9 @@ C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\obj\Debug\net6.0\refint\W
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\FinalProject-Engin-\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
