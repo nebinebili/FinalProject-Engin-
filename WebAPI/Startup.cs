@@ -1,7 +1,10 @@
 using Business.Abstract;
 using Business.Concrete;
+using Core.DependencyResolvers;
+using Core.Utilities.IoC;
 using Core.Utilities.Security.Encryption;
 using Core.Utilities.Security.JWT;
+using Core.Extensions;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -84,6 +87,10 @@ namespace WebAPI
                        new string[]{}
                   }
                });
+            });
+            services.AddDependencyResolvers(new ICoreModule[]
+            {
+                new CoreModule(),
             });
         }
 
